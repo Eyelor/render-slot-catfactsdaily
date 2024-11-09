@@ -1,5 +1,5 @@
 # Use Maven to build the app (with JDK 17)
-FROM maven:3.8.6-openjdk-17-slim AS build
+FROM maven:3.8.5-openjdk-17-slim AS build
 
 # Set the working directory in the container
 WORKDIR /app

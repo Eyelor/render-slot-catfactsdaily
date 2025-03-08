@@ -35,6 +35,8 @@ CatFactsDaily is a secure, user-friendly web application where users can store a
 
 API documentation on [catfactsdaily.onrender.com/swagger-ui/index.html](https://catfactsdaily.onrender.com/swagger-ui/index.html)
 
+![Swagger Documentation](./screenshots/swagger.jpg)
+
 Uptime and status on [stats.uptimerobot.com/cxdTXPQLeA](https://stats.uptimerobot.com/cxdTXPQLeA)
 
 ---

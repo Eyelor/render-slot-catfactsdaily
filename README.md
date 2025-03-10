@@ -39,6 +39,8 @@ API documentation on [catfactsdaily.onrender.com/swagger-ui/index.html](https://
 
 Uptime and status on [stats.uptimerobot.com/cxdTXPQLeA](https://stats.uptimerobot.com/cxdTXPQLeA)
 
+![Uptimerobot Status](./screenshots/uptimerobot.jpg)
+
 ---
 
 ##  Features
